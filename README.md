@@ -13,14 +13,21 @@ Website project made for the mobile game: "FFBE: WOTV" made with React.js
   - [ ] Finish Home Page
 - [x] Add Team Builder Page
   - [ ] Finish Team Builder Page
-- [ ] Add Unit Analysis Page
+- [X] Add Unit Analysis Page
   - [ ] Finish Unit Analysis Page
-- [ ] Add Sample Team Analysis Page
+- [X] Add Sample Team Analysis Page
   - [ ] Add Sample Team Analysis Page
-- [ ] Add Contact Page
+- [X] Add Contact Page
   - [ ] Finish Contact Page
-- [ ] Add Legal Stuff Page
+- [X] Add Legal Stuff Page
   - [ ] Finish Legal Stuff Page
-- [ ] Add About Us Page
+- [X] Add About Us Page
   - [ ] Finish About Us Page
+- [ ] TBD
+
+### Scripting
+- [ ] Add Character Unit Database Script
+  - [ ] Finish Character Unit Database Script
+- [ ] Add Character Team Database Script
+  - [ ] Finish Character Team Database Script
 - [ ] TBD

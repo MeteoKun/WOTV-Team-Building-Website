@@ -1,9 +1,42 @@
-nav.navBar {
-  background: #1D1B1B;
+  body {
+    min-height: 150vh;
+  }
+
+  .navBar {
+  background-color: #1D1B1B;
+  box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
   font-style: monospace;
-  font-size: 30px;
+  position: fixed;
+  font-weight: bold;
+  top: 0px;
+  left: 0px;
+  right: 0px;
   display: flex;
-  flex-wrap: wrap;
+  /* flex-wrap: wrap; */
   align-items: center;
   justify-content: space-between;
+  padding-left: 15px;
+  padding-right: 15px;
 }
+
+  .startBar{
+    font-size: 35px;
+  }
+
+  .centerBar {
+    font-size: 17px;
+  }
+
+  .endBar {
+    font-size: 13px;
+  }
+
+  a:link, a:visited {
+    text-decoration: none;
+    color: grey;
+  }
+
+  a:hover, a:active {
+    background-color: white;
+    color: black;
+  }
